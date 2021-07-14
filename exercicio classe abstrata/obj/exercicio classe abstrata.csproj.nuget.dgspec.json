@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\davi.silva\\source\\repos\\exercicio classe abstrata\\exercicio classe abstrata\\exercicio classe abstrata.csproj": {}
+    "C:\\Users\\davyd\\Desktop\\ws - vs 2019\\seçao 10\\exercicio 10 metodos abstratos\\exercicio-m-todos-abstratos\\exercicio classe abstrata\\exercicio classe abstrata.csproj": {}
   },
   "projects": {
-    "C:\\Users\\davi.silva\\source\\repos\\exercicio classe abstrata\\exercicio classe abstrata\\exercicio classe abstrata.csproj": {
+    "C:\\Users\\davyd\\Desktop\\ws - vs 2019\\seçao 10\\exercicio 10 metodos abstratos\\exercicio-m-todos-abstratos\\exercicio classe abstrata\\exercicio classe abstrata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davi.silva\\source\\repos\\exercicio classe abstrata\\exercicio classe abstrata\\exercicio classe abstrata.csproj",
+        "projectUniqueName": "C:\\Users\\davyd\\Desktop\\ws - vs 2019\\seçao 10\\exercicio 10 metodos abstratos\\exercicio-m-todos-abstratos\\exercicio classe abstrata\\exercicio classe abstrata.csproj",
         "projectName": "exercicio classe abstrata",
-        "projectPath": "C:\\Users\\davi.silva\\source\\repos\\exercicio classe abstrata\\exercicio classe abstrata\\exercicio classe abstrata.csproj",
-        "packagesPath": "C:\\Users\\davi.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davi.silva\\source\\repos\\exercicio classe abstrata\\exercicio classe abstrata\\obj\\",
+        "projectPath": "C:\\Users\\davyd\\Desktop\\ws - vs 2019\\seçao 10\\exercicio 10 metodos abstratos\\exercicio-m-todos-abstratos\\exercicio classe abstrata\\exercicio classe abstrata.csproj",
+        "packagesPath": "C:\\Users\\davyd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davyd\\Desktop\\ws - vs 2019\\seçao 10\\exercicio 10 metodos abstratos\\exercicio-m-todos-abstratos\\exercicio classe abstrata\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\davi.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\davyd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

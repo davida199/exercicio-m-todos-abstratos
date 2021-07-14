@@ -1,0 +1,13 @@
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\exercicio 10 metodos abstratos\exercicio-m-todos-abstratos\exercicio classe abstrata\obj\Debug\netcoreapp3.1\exercicio classe abstrata.csproj.AssemblyReference.cache
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\exercicio 10 metodos abstratos\exercicio-m-todos-abstratos\exercicio classe abstrata\obj\Debug\netcoreapp3.1\exercicio classe abstrata.AssemblyInfoInputs.cache
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\exercicio 10 metodos abstratos\exercicio-m-todos-abstratos\exercicio classe abstrata\obj\Debug\netcoreapp3.1\exercicio classe abstrata.AssemblyInfo.cs
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\exercicio 10 metodos abstratos\exercicio-m-todos-abstratos\exercicio classe abstrata\obj\Debug\netcoreapp3.1\exercicio classe abstrata.csproj.CoreCompileInputs.cache
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\exercicio 10 metodos abstratos\exercicio-m-todos-abstratos\exercicio classe abstrata\bin\Debug\netcoreapp3.1\exercicio classe abstrata.exe
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\exercicio 10 metodos abstratos\exercicio-m-todos-abstratos\exercicio classe abstrata\bin\Debug\netcoreapp3.1\exercicio classe abstrata.deps.json
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\exercicio 10 metodos abstratos\exercicio-m-todos-abstratos\exercicio classe abstrata\bin\Debug\netcoreapp3.1\exercicio classe abstrata.runtimeconfig.json
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\exercicio 10 metodos abstratos\exercicio-m-todos-abstratos\exercicio classe abstrata\bin\Debug\netcoreapp3.1\exercicio classe abstrata.runtimeconfig.dev.json
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\exercicio 10 metodos abstratos\exercicio-m-todos-abstratos\exercicio classe abstrata\bin\Debug\netcoreapp3.1\exercicio classe abstrata.dll
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\exercicio 10 metodos abstratos\exercicio-m-todos-abstratos\exercicio classe abstrata\bin\Debug\netcoreapp3.1\exercicio classe abstrata.pdb
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\exercicio 10 metodos abstratos\exercicio-m-todos-abstratos\exercicio classe abstrata\obj\Debug\netcoreapp3.1\exercicio classe abstrata.dll
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\exercicio 10 metodos abstratos\exercicio-m-todos-abstratos\exercicio classe abstrata\obj\Debug\netcoreapp3.1\exercicio classe abstrata.pdb
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\exercicio 10 metodos abstratos\exercicio-m-todos-abstratos\exercicio classe abstrata\obj\Debug\netcoreapp3.1\exercicio classe abstrata.genruntimeconfig.cache

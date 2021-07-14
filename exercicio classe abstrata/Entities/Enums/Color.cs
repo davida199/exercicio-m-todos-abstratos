@@ -2,8 +2,8 @@
 {
     enum Color:int
     {
-        Black=1,
-        Blue=2,
-        Red=3
+        black=1,
+        blue=2,
+        red=3
     }
 }
